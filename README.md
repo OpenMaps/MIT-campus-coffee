@@ -8,7 +8,7 @@ The full tutorial can be found [here](http://duspviz.mit.edu/leaflet-js/).
 
 A few adjustments I made when running through this tutorial:
 
-- Step 1.d - I used Bower for installing Leaflet.  It's prudent to become familiar with Bower since many common packages can be easily installed with its use.  Using command line, inside my working directory, I entered the following:
+- Step 1.d - I used Bower to add Leaflet to my project.  It's prudent to become familiar with Bower since many common packages can be easily installed with its use.  Using command line, inside my working directory, I entered the following:
 
 		bower install leaflet
 		
@@ -19,7 +19,9 @@ A few adjustments I made when running through this tutorial:
 	and the Leaflet JavaScript link at the bottom of the *body* section would be referenced as: 
 	
 		<script src="./bower_components/leaflet/dist/leaflet.js"></script>
-		
+
+
+![MIT-campus-coffee](/images/MIT_campus_coffee.png)		
 
 	
 
