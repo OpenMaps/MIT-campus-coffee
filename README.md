@@ -8,7 +8,7 @@ The full tutorial can be found [here](http://duspviz.mit.edu/leaflet-js/).
 
 A few adjustments I made when running through this tutorial:
 
-- Step 1.d - I used Bower for installing Leaflet.  It's prudent to become familiar with Bower since many common packages can be easily installed with its use.  Using command line, inside my working folder, I entered the following:
+- Step 1.d - I used Bower for installing Leaflet.  It's prudent to become familiar with Bower since many common packages can be easily installed with its use.  Using command line, inside my working directory, I entered the following:
 
 		bower install leaflet
 		
