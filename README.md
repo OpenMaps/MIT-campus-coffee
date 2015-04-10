@@ -16,7 +16,11 @@ A few adjustments I made when creating this tutorial:
 	
 		<link rel="stylesheet" href="./bower_components/leaflet/dist/leaflet.css" />
 
-	and the Leaflet JavaScript link at the bottom of the *body* section 
+	and the Leaflet JavaScript link at the bottom of the *body* section would be referenced as: 
+	
+		<script src="./bower_components/leaflet/dist/leaflet.js"></script>
+		
+
 	
 
 	
