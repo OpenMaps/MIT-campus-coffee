@@ -1,8 +1,6 @@
-## MIT-campus-coffee
+## Tutorial of MIT Campus Map and Surrounding Coffee Shops
 
-MIT campus map, with surrounding coffee shops and cafes
-
-This is an excellent beginning application for anyone new to JavaScript and/or [LeafletJS](http://leafletjs.com/).  Additional information has been included below about publishing your application via [GitHub Pages](https://pages.github.com/) and [Bower](http://bower.io/), a package manager that makes including frameworks, libraries, and utilities in your projects more convenient for developers.
+This is an excellent beginning web application for anyone new to JavaScript and/or [LeafletJS](http://leafletjs.com/).  The tutorial was developed by MIT and is easy to understand.  I have included additional information below about publishing your application via [GitHub Pages](https://pages.github.com/) as well as [Bower](http://bower.io/), a package manager that makes including frameworks, libraries, and utilities in your projects more convenient for developers.  I feel as though all of this information together is an excellent start to learning about and creating web maps.
 
 
 The full MIT tutorial can be found [here](http://duspviz.mit.edu/leaflet-js/).
