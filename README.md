@@ -1,14 +1,14 @@
 # MIT-campus-coffee
 
-This is a great application for anyone new to JavaScript and/or [LeafletJS](http://leafletjs.com/).  It also introduces [Bower](http://bower.io/), a package manager that makes including frameworks, libraries, and utilities in your projects more convenient for developers.
+This is a great application for anyone new to JavaScript and/or [LeafletJS](http://leafletjs.com/).  I added a few notes below about [Bower](http://bower.io/), a package manager that makes including frameworks, libraries, and utilities in your projects more convenient for developers.
 
 The end result:  Map of the MIT campus, including coffee shops and cafes
 
 The full tutorial can be found [here](http://duspviz.mit.edu/leaflet-js/).
 
-A few adjustments I made when creating this tutorial:
+A few adjustments I made when running through this tutorial:
 
-- Step 1.d - I used Bower for installing Leaflet.  It's a package manager that makes including frameworks, libraries, and utilities in your projects more convenient for developers.  Using command line, inside my working folder, I entered the following:
+- Step 1.d - I used Bower for installing Leaflet.  It's prudent to become familiar with Bower since many common packages can be easily installed with its use.  Using command line, inside my working folder, I entered the following:
 
 		bower install leaflet
 		
