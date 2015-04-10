@@ -5,7 +5,7 @@ This is an excellent beginning web application for anyone new to JavaScript and/
 
 The full MIT tutorial can be found [here](http://duspviz.mit.edu/leaflet-js/).
 
-Application can be found [here](http://tannerkj.github.io/MIT-campus-coffee/).
+View my application [here](http://tannerkj.github.io/MIT-campus-coffee/).
 
 ######Adjustments I made when running through this tutorial:
 ######Step 1.b
@@ -28,5 +28,6 @@ and the Leaflet JavaScript link at the bottom of the *body* section would be ref
 	
 	<script src="./bower_components/leaflet/dist/leaflet.js"></script>
 
+View my application [here](http://tannerkj.github.io/MIT-campus-coffee/).
 
 ![MIT-campus-coffee](/images/MIT_campus_coffee.png)		
